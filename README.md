@@ -4,9 +4,9 @@
 Welcome to the Business Intelligence Developer challenge! We're thrilled to assess your skills in various aspects of Business Intelligence development. Please carefully review the guidelines before you begin.
 
 ## Example GIFs
-![gif1](https://github.com/rihal-om/BI-Challenge/assets/23008831/4fb54493-fc0f-4883-a17a-d1f6423543d9)
+![gif1](https://github.com/rihal-om/BI-Challenge/assets/23008831/493eca66-c5bf-4ffb-b85a-493f843be9b6)
 
-![gif2](https://github.com/rihal-om/BI-Challenge/assets/23008831/64c598fb-7b3c-4e4c-a1a2-acb1e8098308)
+![gif2](https://github.com/rihal-om/BI-Challenge/assets/23008831/d373f286-f3b5-4d8f-8002-a32648a8edfa)
 
 
 ## Main Knowledge Axes:
@@ -68,7 +68,7 @@ This data set contains booking information for a city hotel and a resort hotel a
 All personally identifying information has been removed from the data.
 
 ### Download
-You can download the data through this link: [hotel_bookings.csv](https://github.com/rihal-om/BI-Challenge/files/13949695/hotel_bookings.csv)
+You can download the data through this link: [hotel_bookings.csv](https://github.com/rihal-om/BI-Challenge/files/13950515/hotel_bookings.csv)
 
 ## Submission
 Please submit your BI Project Repository to ##
