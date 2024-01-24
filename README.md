@@ -71,4 +71,4 @@ All personally identifying information has been removed from the data.
 You can download the data through this link: [hotel_bookings.csv](https://github.com/rihal-om/BI-Challenge/files/13950515/hotel_bookings.csv)
 
 ## Submission
-Please submit your BI Project Repository to ##
+Please submit your Business Intelligence project repository or solution to the email address from which you received the challenge.
